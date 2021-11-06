@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabrielle</h1>
-<h3 align="center">A Data Science aspirant passionate about data</h3>
+<h3 align="center">A Data Engineer passionate about data</h3>
 
 - 🔭 I’m currently working on **Swiss Re**
 
